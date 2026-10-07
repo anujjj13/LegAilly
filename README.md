@@ -1,4 +1,4 @@
-# Legaily ⚖️ - AI-Powered Legal Assistance Platform
+# Legaily ⚖️ - AI-Powered Legal Assistance Platform.
 
 **Legaily** (Legal + AI) is a comprehensive web-based platform designed to simplify and streamline various legal processes using Artificial Intelligence. It enables lawyers, judges, and clients to manage legal documentation, translate case files, summarize legal texts, and efficiently track legal diaries — all in a user-friendly environment.
 
